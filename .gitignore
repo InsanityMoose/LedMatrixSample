@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/LedMatrix/Debug
+/LedMatrix/__vm
+/LedMatrix/LedMatrix.vcxproj.filters
+/LedMatrix/LedMatrix.vcxproj.user
